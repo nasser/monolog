@@ -1,0 +1,11 @@
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "index"
+plugins:
+  - jekyll-optional-front-matter
+  - jekyll-last-modified-at
+optional_front_matter:
+  remove_originals: true

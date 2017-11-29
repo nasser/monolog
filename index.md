@@ -1,0 +1,5 @@
+---
+---
+# Monolog
+
+Hacker diary
